@@ -7,7 +7,7 @@ backend together, and easily deploy them to Heroku.
 
 ## Requirements
 
-- Ruby 2.7.4
+- Ruby 3.0.4
 - NodeJS (v16), and npm
 - Heroku CLI
 - Postgresql
